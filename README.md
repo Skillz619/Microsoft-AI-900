@@ -1,3 +1,3 @@
 # Microsoft-AI-900
 
-![](AI-900 Badge.png)
+![](https://github.com/Skillz619/Microsoft-AI-900/blob/main/AI-900%20Shreekar%20Certificates/AI-900%20Badge.png)
